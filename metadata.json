@@ -1,0 +1,5 @@
+{
+  "name": "TreeTask - Smart Hierarchical Todo",
+  "description": "A cross-platform hierarchical task manager with a smart 'Current Focus' filter that surfaces actionable tasks.",
+  "requestFramePermissions": []
+}
